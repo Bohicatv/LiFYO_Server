@@ -5846,7 +5846,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Look in the Bag" id="95">
-				<duration const="">1</duration>
+				<duration const="">0</duration>
 				<ability_skill_mult>0</ability_skill_mult>
 				<entities>
 					<entity type="inventory_item">
@@ -5861,7 +5861,7 @@
 				<results/>
 			</ability>
 			<ability lvl="0" name="Look in Inventory" type="Special" id="108">
-				<duration const="">1</duration>
+				<duration const="">0</duration>
 				<ability_skill_mult>0</ability_skill_mult>
 				<entities>
 					<entity type="complex_obj">
@@ -5892,7 +5892,7 @@
 				<results/>
 			</ability>
 			<ability lvl="0" name="Look in Inventory" type="Special" id="350">
-				<duration const="">1</duration>
+				<duration const="">0</duration>
 				<ability_skill_mult>0</ability_skill_mult>
 				<entities>
 					<entity type="complex_obj">
@@ -5912,7 +5912,7 @@
 				<results/>
 			</ability>
 			<ability lvl="0" name="Look in Inventory" type="Special" id="351">
-				<duration const="">1</duration>
+				<duration const="">0</duration>
 				<ability_skill_mult>0</ability_skill_mult>
 				<entities>
 					<entity type="complex_obj">
