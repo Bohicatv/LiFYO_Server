@@ -3343,7 +3343,7 @@
 				</results>
 			</ability>
 			<ability lvl="60" name="Plant" type="Interface" id="273">
-				<duration const="">3</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>0</ability_skill_mult>
 				<entities>
 					<entity type="complex_obj">
@@ -3364,7 +3364,7 @@
 				</results>
 			</ability>
 			<ability lvl="60" name="Harvest" type="Interface" id="274">
-				<duration const="">3</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>420</ability_skill_mult>
 				<entities>
 					<entity type="complex_obj">
@@ -3646,7 +3646,7 @@
 				<results/>
 			</ability>
 			<ability lvl="0" name="Harvest" type="Interface" id="78">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<regional type="resource" probability="0.05">338 339 390</regional>
 				<ability_skill_mult>300</ability_skill_mult>
 				<entities>
