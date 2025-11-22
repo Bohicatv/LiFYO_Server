@@ -25,7 +25,7 @@
 	<randomEventChanceWalk>0.03</randomEventChanceWalk> <!-- Chance of occurrence of random event while player is traveling in a Peaceful stance around the world. 0 removes any random events while walking (range: 0 - 10) -->
 	<randomEventChanceAbility>0.02</randomEventChanceAbility> <!-- Chance of occurrence of random event while performing in game abilities (chopping trees, building objects etc.). 0 removes any random events for these operations (range: 0 - 10) -->
 	<horsesDecayTimeMinutes>0</horsesDecayTimeMinutes> <!-- 0 = disabled (range: 0 - 35791) -->
-	<homecomingDrop>0</homecomingDrop> <!-- 1/0. Determines whether homecoming will drop inventory. -->
+	<homecomingDrop>1</homecomingDrop> <!-- 1/0. Determines whether homecoming will drop inventory. -->
 	<judgementHour>
 		<startTime>00:00</startTime> <!-- Local server real life time in HH:MM format, when Judgment Hour will start -->
 		<weekSchedule> <!-- Weekly schedule that configures if Judgment Hour will be active at present day, or not -->
