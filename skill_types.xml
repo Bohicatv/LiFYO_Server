@@ -3514,7 +3514,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Inspect patient" type="Special" id="267">
-				<duration const="">1</duration>
+				<duration const="">0</duration>
 				<ability_skill_mult>0</ability_skill_mult>
 				<entities>
 					<entity type="player">
@@ -6382,7 +6382,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Inspect" id="208"  priority="10.0">
-				<duration const="">2</duration>
+				<duration const="">0</duration>
 				<ability_skill_mult>0</ability_skill_mult>
 				<entities>
 					<entity type="complex_obj">
