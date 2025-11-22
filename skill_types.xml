@@ -5983,7 +5983,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Equip" id="126">
-				<duration const="">3</duration>
+				<duration const="">1</duration>
 				<priority>5</priority>
 				<ability_skill_mult>0</ability_skill_mult>
 				<entities>
