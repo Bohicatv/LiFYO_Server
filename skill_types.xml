@@ -269,7 +269,7 @@
 				<autorepeat>possible</autorepeat>
 			</ability>
 			<ability lvl="0" name="Add Some Fuel" type="Special" id="112">
-				<duration const="">1</duration>
+				<duration const="">0</duration>
 				<ability_skill_mult>0</ability_skill_mult>
 				<entities>
 					<entity type="complex_obj">
