@@ -11,9 +11,10 @@
 - Map Size: Default Map
 
 ## Installation
-1. Download the shown files
-2. Configure settings
-3. Start the server
+1. Download the shown files in this repo
+2. Configure settings how you like them
+3. Merger/copy/override them into your server files
+4. Start the server
 
 Detailed self/home hosted server guide here
 [Steam Community Guide](https://steamcommunity.com/app/290080/discussions/6/654837329739017935/).
