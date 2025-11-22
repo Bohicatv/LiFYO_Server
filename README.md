@@ -1,8 +1,8 @@
 # Life is Feudal: Your Own
-This is a public server with public settings for LiF:YO.
-Feel free to save these settings for your own server, but leave us a star on this repo.
-Also, please follow the License which is GPLv3.
-Visit the discord: https://discord.gg/xYwp6GVAes
+- This is a public server with public settings for LiF:YO.
+- Feel free to save these settings for your own server, but leave us a star on this repo.
+- Also, please follow the License which is GPLv3.
+- Visit the discord: https://discord.gg/xYwp6GVAes
 
 ## Server Information
 - Server Name: [US] Events Disabled | discord.gg/xYwp6GVAes
