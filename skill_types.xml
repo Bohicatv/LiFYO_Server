@@ -168,7 +168,7 @@
 				<autorepeat>possible</autorepeat>
 			</ability>
 			<ability lvl="0" name="a Bark" id="33" type="Gather" priority="9.2">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<chance>0.01</chance>
 				<ability_skill_mult>100</ability_skill_mult>
 				<entities>
@@ -376,7 +376,7 @@
 		<skill_mult>1</skill_mult>
 		<abilities>
 			<ability lvl="0" name="a Flint Stone" type="Gather" id="6">
-				<duration const="">2</duration>
+				<duration const="">1</duration>
 				<chance>0.7</chance>
 				<ability_skill_mult>300</ability_skill_mult>
 				<entities>
@@ -399,7 +399,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Ammo for Sling" type="Gather" id="179">
-				<duration const="">2</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>200</ability_skill_mult>
 				<entities>
 					<entity type="gatherable">
@@ -421,7 +421,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="a Branch" type="Gather" id="21">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>100</ability_skill_mult>
 				<entities>
 					<entity type="tree">
@@ -453,7 +453,7 @@
 				<autorepeat>possible</autorepeat>
 			</ability>
 			<ability lvl="0" name="Plant Fiber" type="Gather" id="45">
-				<duration const="">2</duration>
+				<duration const="">1</duration>
 				<chance>0.7</chance>
 				<ability_skill_mult>200</ability_skill_mult>
 				<entities>
@@ -566,7 +566,7 @@
 				<autorepeat>possible</autorepeat>
 			</ability>
 			<ability lvl="0" name="Gather Edibles" id="50">
-				<duration const="">2</duration>
+				<duration const="">1</duration>
 				<chance>0.2</chance>
 				<ability_skill_mult>420</ability_skill_mult>
 				<entities>
@@ -589,7 +589,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Berries" type="Gather" id="51">
-				<duration const="">2</duration>
+				<duration const="">1</duration>
 				<chance>0.1</chance>
 				<ability_skill_mult>300</ability_skill_mult>
 				<entities>
@@ -613,7 +613,7 @@
 				<autorepeat>possible</autorepeat>
 			</ability>
 			<ability lvl="30" name="Gather Herbs" type="Special" id="52">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<chance>0.3</chance>
 				<ability_skill_mult>500</ability_skill_mult>
 				<entities>
@@ -638,7 +638,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Apples" type="Gather" id="98">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>100</ability_skill_mult>
 				<entities>
 					<entity type="tree">
@@ -661,7 +661,7 @@
 				<autorepeat>possible</autorepeat>
 			</ability>
 			<ability lvl="0" name="Nuts" type="Gather" id="280">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>100</ability_skill_mult>
 				<entities>
 					<entity type="tree">
@@ -2398,7 +2398,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Wild Plants" type="Gather" id="68">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<chance>0.09</chance>
 				<ability_skill_mult>300</ability_skill_mult>
 				<entities>
@@ -2490,7 +2490,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Gather Silkworm Cocoons" type="Special" id="99">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>300</ability_skill_mult>
 				<entities>
 					<entity type="tree">
@@ -3058,7 +3058,7 @@
 		<skill_mult>1</skill_mult>
 		<abilities>
 			<ability lvl="0" name="a Sprout" type="Gather" id="25">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>100</ability_skill_mult>
 				<entities>
 					<entity type="tree">
@@ -6850,7 +6850,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Gather Eggs" type="Special" id="315">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>10</ability_skill_mult>
 				<entities>
 					<entity type="complex_obj">
@@ -6892,7 +6892,7 @@
 				<autorepeat>possible</autorepeat>
 			</ability>
 			<ability lvl="0" name="Gather Cabbage" type="Special" id="317">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>10</ability_skill_mult>
 				<entities>
 					<entity type="cell">
@@ -6914,7 +6914,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Gather Carrot" type="Special" id="318">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>10</ability_skill_mult>
 				<entities>
 					<entity type="cell">
@@ -6936,7 +6936,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Gather Flax" type="Special" id="319">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>10</ability_skill_mult>
 				<entities>
 					<entity type="cell">
@@ -6958,7 +6958,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Gather Grape" type="Special" id="320">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>10</ability_skill_mult>
 				<entities>
 					<entity type="cell">
@@ -6980,7 +6980,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Gather Onion" type="Special" id="321">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>10</ability_skill_mult>
 				<entities>
 					<entity type="cell">
@@ -7002,7 +7002,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Gather Potato" type="Special" id="322">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>10</ability_skill_mult>
 				<entities>
 					<entity type="cell">
@@ -7024,7 +7024,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Gather Peas" type="Special" id="323">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>10</ability_skill_mult>
 				<entities>
 					<entity type="cell">
@@ -7046,7 +7046,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Gather Wheat" type="Special" id="324">
-				<duration const="">5</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>10</ability_skill_mult>
 				<entities>
 					<entity type="cell">
