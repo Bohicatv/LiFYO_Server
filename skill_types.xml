@@ -769,7 +769,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Tracks of Peaceful Animals" type="Look for" id="91">
-				<duration const="">5</duration>
+				<duration const="">4</duration>
 				<ability_skill_mult>160</ability_skill_mult>
 				<entities>
 					<entity type="cell">
@@ -783,7 +783,7 @@
 				</results>
 			</ability>
 			<ability lvl="60" name="Tracks of Aggressive Animals" type="Look for" id="92">
-				<duration const="">5</duration>
+				<duration const="">4</duration>
 				<ability_skill_mult>400</ability_skill_mult>
 				<entities>
 					<entity type="cell">
