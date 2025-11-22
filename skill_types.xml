@@ -1931,7 +1931,7 @@
 				<autorepeat>possible</autorepeat>
 			</ability>
 			<ability lvl="30" name="Manage Kiln" type="Special" id="63">
-				<duration const="">1</duration>
+				<duration const="">0</duration>
 				<ability_skill_mult>0</ability_skill_mult>
 				<entities>
 					<entity type="complex_obj">
@@ -2070,7 +2070,7 @@
 		<skill_mult>1</skill_mult>
 		<abilities>
 			<ability lvl="0" name="Manage Furnace" type="Special" id="100">
-				<duration const="">1</duration>
+				<duration const="">0</duration>
 				<ability_skill_mult>0</ability_skill_mult>
 				<entities>
 					<entity type="complex_obj">
@@ -3628,7 +3628,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Manage" type="Special" id="77">
-				<duration const="">1</duration>
+				<duration const="">0</duration>
 				<ability_skill_mult>0</ability_skill_mult>
 				<entities>
 					<entity type="complex_obj">
@@ -7403,7 +7403,7 @@
 				</results>
 			</ability>
 			<ability lvl="0" name="Manage the Monument" type="Special" id="187">
-				<duration const="">1</duration>
+				<duration const="">0</duration>
 				<ability_skill_mult>0</ability_skill_mult>
 				<entities>
 					<entity type="complex_obj">
