@@ -67,7 +67,7 @@
 				<autorepeat>possible</autorepeat>
 			</ability>
 			<ability lvl="0" name="Pour on the Ground" id="8">
-				<duration const="">4</duration>
+				<duration const="">1</duration>
 				<ability_skill_mult>20</ability_skill_mult>
 				<entities>
 					<entity type="inventory_item">
